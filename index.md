@@ -240,7 +240,7 @@
       <a class="underline" href="#skills"> Skills </a>
       <a class="underline" href="#portfolio"> Portfolio </a>
     </div>
-    <footer>&copy; 2020 Developed By Avinash A. Kshirsagar</footer>
+    <footer>&copy;Right 2020 Developed By Avinash A. Kshirsagar</footer>
   </div>
 
 
