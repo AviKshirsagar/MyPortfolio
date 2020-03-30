@@ -395,7 +395,7 @@
 
     <!-- THE BOX -->
     <div class="splBox">
-      <div id="splCancel" onClick="toggleViewPortfolioLightBox()"> &#x2715 </div>
+      <div id="splCancel" onClick="toggleViewPortfolioLightBox()"> X </div>
       <div class="splMain">
         <div id="splTitle"></div>
         <div id="splContent"></div>
