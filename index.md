@@ -48,7 +48,7 @@
     </div>
   </header>
   <div id="resMenu">
-    <div class="hamburgerMenu">&times</div>
+    <div class="hamburgerMenu"> x </div>
     <div class="menu">
       <a class="underline active" href="#greeting">Home</a>
       <span class="underline" id="aboutButton">About</span>
