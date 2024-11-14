@@ -71,7 +71,7 @@
         Welcome to my Portfolio website where you can know more about me, see all of my skills,
         and view some of my previous projects in frontend and backend application development.
       </p>
-      <a class="button" href="./docs/Resume_Work_2019.pdf" download target="_blank"> Download Resume </a>
+      <a class="button" href="./docs/Resume_Work_2024.pdf" download target="_blank"> Download Resume </a>
     </div>
 
     <div id="whiteSpace">
