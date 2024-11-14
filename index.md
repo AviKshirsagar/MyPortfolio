@@ -81,17 +81,13 @@
         <h2 class="sectionHeader"> Personal Profile </h2>
         <div class="info">
           <p>
-            My name is Avinash Ashok Kshirsagar. I am a full-stack web application developer with over 2 years of
-            experience. I have close to two years combined work experience in web-development and digital marketing
-            company in Pune.
-
-            I have a BCA degree from Madurai Kamaraj University, college branch Nashik(MH).
+            I am 4+ years experienced immediate joiner Azure Cloud, ASP .Net, ASP .Net MVC web developer. Exploring Python Flask micro
+            framework and Angular for good exposure. Skilled in Azure PaaS, with a proven track record in the development, deployment, and
+            support.
           </p>
           <p>
-            I have built multiple Client and Server Side applications for web and mobile platforms. These applications
-            range from
-            small personal projects to some client projects. My main development stack is
-            ASP.NET and Angular
+            Adept at leveraging cloud solutions to enhance application performance and reliability. Committed to delivering high
+           quality software solutions that meet user needs and business objectives. I am an enthusiastic and self quick learner developer.
           </p>
         </div>
 
@@ -271,22 +267,15 @@
         <article id="aboutBody">
           <section>
             <p>
-              My name is Avinash Ashok Kshirsagar. I am 29 years old and I live in Pune, Maharashtra.
-              I have Bachelor's degree in Computer Applications from Madurai Kamaraj University, Tamil-nadu, Center
-              Nashik(MH).
+              My name is Avinash Ashok Kshirsagar. I belongs to Nashik Maharashtra.
             </p>
             <p>
               I started journey of Programming and development after my HSC
               I started by learning the basics of C and C++, but later moved to NIIT nashik, As the increasing interest
               in programming I started learning web technologies and grab the necessary knowledge in HTML css and dot
-              net.
-              Unfortunately I didnt searched the job in the same field due to lac of market studies during my
-              Graduation.
-              Later I join on the post of Service Manager in a Bike dealership, I performed as a manager for 3 years
-              well. happy about the experience in the proprietorship.
-              Everyting was good in the life, but the passion again make me able do something in the development.
-              Suddenly I went to hyderabad for further web-technology studies. I have successfully completed the
-              relevant courses in hyderabad and went back to Maharashtra in Pune city.
+              net technologies initially.
+              
+              I am staying in Pune city with family since few years, and worked with multiple organizations on multiple frameworks.
               And here I am now........! :)
             </p>
           </section>
@@ -294,19 +283,18 @@
           <section>
             <h2>Web Deisign/Development</h2>
             <p>
-              I do fullstack web design and development, I am currently building the web platform (frontend and
-              backend) for a startup app called <a href="ShopAny.com">ShopAny</a> (coming soon).
+              I do fullstack web design and development. I have an experience on Angular typescript and also designed the responsive web UI with Angular Material Design.
               I have also built other Websites and Web Applications, some of which can be found in the portfolo section,
               as well as my
               <a href="https://github.com/AviKshirsagar/" target="_blank">Github Page.</a>
             </p>
             <p>
               I am Good in frontend and backend web development languages like HTML5, CSS 4, JavaScript, C#
-              and TypeScript as well as various frontend libraries like AngularJs and Angular-8.
+              and TypeScript as well as various frontend libraries and frameworks like AngularJs and Angular-8.
             </p>
           </section>
 
-          <section>
+          <!-- <section>
             <h2>Mobile App Development</h2>
             <p>
               I only recently started Mobile Application development. Although, I familiarized myself with Native
@@ -324,20 +312,17 @@
             <p>
               Besides Angular, I also have experience with cordova, another all hybrid app development framework.
             </p>
-          </section>
+          </section> -->
 
           <section>
             <h2>Backend Development</h2>
             <p>
               As a Full-stack developer, you need to know a few Server-side languges and frameworks. I currently
-              use SQL DB and .NET WEB-API for my backend projects.
+              use SQL DB and .NET WEB-API for my backend projects also worked on Python Flask Micro framework to create the REST API's.
               In contrast, I use ASP .NET MVC for bigger applications what require speed and scalability.
             </p>
             <p>
-              I am currently learning React, and plan to learn NodeJs next and MEAN stack as well Because these
-              languages are very fast
-              and
-              scalable, and well suited for building efficient backend solutions.
+              also learning Dotnet Core which is pretty good and most reliable framework for creating the web and api application which we can host/publish on any platform as it is platform independent.
             </p>
           </section>
         </article>
